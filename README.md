@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-![](images/armuseuminfo.png)
+![](images/hminfo.png)
 
 <p>&nbsp;</p>
 
