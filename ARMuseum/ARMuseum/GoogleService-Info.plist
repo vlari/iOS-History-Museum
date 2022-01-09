@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>260040794998-j0fbclfh7icv19mgepk48ob2aat79tqp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.260040794998-j0fbclfh7icv19mgepk48ob2aat79tqp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6VKxRRkA7aHY-3TX531y5A9RZz8b_wKY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260040794998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ogdev.ARMuseum</string>
+	<key>PROJECT_ID</key>
+	<string>armuseum-ccad2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>armuseum-ccad2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260040794998:ios:2fe118e2b48055736f9057</string>
+</dict>
+</plist>
